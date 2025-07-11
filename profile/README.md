@@ -4,7 +4,7 @@
 [![Docs](https://img.shields.io/badge/docs-fluence.dev-brightgreen)](https://fluence.dev)
 [![API](https://img.shields.io/badge/api-api.fluence.dev-orange)](https://api.fluence.dev)
 
-Fluence is a **decentralized compute network** that enables businesses to deploy virtual machines on independently operated, globally distributed infrastructure. Built on an Arbitrum Orbit L2 appchain anchored to Ethereum, Fluence coordinates compute providers through staking and governance while keeping transaction costs low. Compute is paid in **stablecoins (USDC)**, and **FLT**—the native token—is used for staking and protocol governance.
+Fluence is a **decentralized compute network** that enables anyone to deploy virtual machines on independently operated, globally distributed infrastructure. Built on an Arbitrum Orbit L2 appchain anchored to Ethereum, Fluence coordinates compute providers through staking and governance while keeping transaction costs low. Compute is paid in **stablecoins (USDC)**, and **FLT**—the native token—is used for staking and protocol governance.
 
 ## Getting Started
 
